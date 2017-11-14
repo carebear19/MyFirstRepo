@@ -1,3 +1,4 @@
+import time
 name = "Mackenzie"
 state = "Florida"
 city = "Edinburogh"
@@ -16,3 +17,4 @@ if subject == "Math":
     print("That's my favorite too!")
 else:
     print(subject + " is alright too.")
+time.sleep(100)
